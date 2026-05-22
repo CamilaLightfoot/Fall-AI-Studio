@@ -36,7 +36,7 @@ Our team analyzed and augmented chatbot interaction data to improve the accuracy
 [Other teammates]: (Add their specific contributions if applicable).  
 
 ## Resources
-- **GitHub Repository:** [Fall-AI-Studio](https://github.com/CamilaLightfoot/Fall-AI-Studio)  
+- **GitHub Repository:** [Fall-AI-Studio](https://github.com/CamilaLightfoot/AI-Health-Chatbot-Optimization)  
 - **Dataset:** Combination of real and generated chatbot conversations (private for confidentiality).  
 ## Individual Contributions
 - **Camila Lightfoot**: Data preprocessing, SVM model tuning, GitHub repo maintenance, presentation to mentors.
